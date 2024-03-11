@@ -1,5 +1,5 @@
 # gameOfLife
-| Simple implementation of Conway's Game of Life
+> Simple implementation of Conway's Game of Life
 
 Very simple and unoptimized implementation of the Game of Life using Pygame.
 
